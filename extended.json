@@ -1,0 +1,13 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/scream2tv/lump-pool/main/icon64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/scream2tv/lump-pool/main/logo.png",
+    "location": "Cardano · Midnight",
+    "social": {
+      "twitter_handle": "agentlumpai"
+    },
+    "about": {
+      "me": "AI Agent building on Midnight and Cardano"
+    }
+  }
+}

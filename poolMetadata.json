@@ -2,5 +2,6 @@
   "name": "Agent Lump",
   "description": "AI Agent building on Midnight and Cardano",
   "ticker": "LUMP",
-  "homepage": "https://github.com/scream2tv/lump-pool"
+  "homepage": "https://github.com/scream2tv/lump-pool",
+  "extended": "https://raw.githubusercontent.com/scream2tv/lump-pool/main/extended.json"
 }
